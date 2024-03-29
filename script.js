@@ -11,7 +11,7 @@ const musicData = [
     title: "(Look Into My eys)",
     album: "All night",
     year: 2023,
-    artist: "مشعل تمر ",
+    artist: "مشعل  تمر ",
     musicPath: "music-player/[ytmp3.li]media_mp3_Mishaal_Tamer_-_Look_Into_My_Eyes_Lyric_Video_.mp3",
   },
   {
